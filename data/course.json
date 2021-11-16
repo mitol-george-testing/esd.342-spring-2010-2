@@ -1,0 +1,30 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "7576be0c-0d51-deb8-8145-27dfcf7b330a",
+      "54e3f5ea-38b5-3365-97a4-07feb2d7ac86",
+      "1bf2a7e0-60ec-27a8-8b22-aa128400037b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Network Representations of Complex Engineering Systems",
+  "course_description": "This course provides a deep understanding of engineering systems at a level intended for research on complex engineering systems. It provides a review and extension of what is known about system architecture and complexity from a theoretical point of view while examining the origins of and recent developments in the field. The class considers how and where the theory has been applied, and uses key analytical methods proposed. Students examine the level of observational (qualitative and quantitative) understanding necessary for successful use of the theoretical framework for a specific engineering system. Case studies apply the theory and principles to engineering systems.\n",
+  "department_numbers": [
+    "ESD"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ESD.342",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
